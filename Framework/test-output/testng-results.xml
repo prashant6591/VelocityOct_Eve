@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-15T22:59:46 IST" name="Suite321" finished-at="2023-02-15T23:00:53 IST" duration-ms="66906">
+    <groups>
+    </groups>
+    <test started-at="2023-02-15T22:59:46 IST" name="ChromeTest" finished-at="2023-02-15T23:00:32 IST" duration-ms="45366">
+      <class name="TestNg.TestNgClass">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:TestNg.TestNgClass@67a20f67]" started-at="2023-02-15T22:59:46 IST" name="launchBrowser" finished-at="2023-02-15T22:59:49 IST" duration-ms="2873" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="test()[pri:0, instance:TestNg.TestNgClass@67a20f67]" started-at="2023-02-15T22:59:49 IST" name="test" finished-at="2023-02-15T22:59:49 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="goToSignUpForm()[pri:0, instance:TestNg.TestNgClass@67a20f67]" started-at="2023-02-15T22:59:49 IST" name="goToSignUpForm" finished-at="2023-02-15T22:59:52 IST" duration-ms="2886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToSignUpForm -->
+        <test-method signature="verifyPrivacyPolicyLink()[pri:0, instance:TestNg.TestNgClass@67a20f67]" started-at="2023-02-15T22:59:52 IST" name="verifyPrivacyPolicyLink" finished-at="2023-02-15T23:00:16 IST" duration-ms="24323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPrivacyPolicyLink -->
+        <test-method is-config="true" signature="closeChildBrowser()[pri:0, instance:TestNg.TestNgClass@67a20f67]" started-at="2023-02-15T23:00:16 IST" name="closeChildBrowser" finished-at="2023-02-15T23:00:17 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeChildBrowser -->
+        <test-method is-config="true" signature="goToSignUpForm()[pri:0, instance:TestNg.TestNgClass@67a20f67]" started-at="2023-02-15T23:00:17 IST" name="goToSignUpForm" finished-at="2023-02-15T23:00:19 IST" duration-ms="2042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToSignUpForm -->
+        <test-method signature="verifycookiesPolicyLink()[pri:0, instance:TestNg.TestNgClass@67a20f67]" started-at="2023-02-15T23:00:19 IST" name="verifycookiesPolicyLink" finished-at="2023-02-15T23:00:24 IST" duration-ms="5039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycookiesPolicyLink -->
+        <test-method is-config="true" signature="closeChildBrowser()[pri:0, instance:TestNg.TestNgClass@67a20f67]" started-at="2023-02-15T23:00:24 IST" name="closeChildBrowser" finished-at="2023-02-15T23:00:24 IST" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeChildBrowser -->
+        <test-method is-config="true" signature="goToSignUpForm()[pri:0, instance:TestNg.TestNgClass@67a20f67]" started-at="2023-02-15T23:00:24 IST" name="goToSignUpForm" finished-at="2023-02-15T23:00:25 IST" duration-ms="1547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToSignUpForm -->
+        <test-method signature="verifytermsLink()[pri:0, instance:TestNg.TestNgClass@67a20f67]" started-at="2023-02-15T23:00:25 IST" name="verifytermsLink" finished-at="2023-02-15T23:00:30 IST" duration-ms="5035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytermsLink -->
+        <test-method is-config="true" signature="closeChildBrowser()[pri:0, instance:TestNg.TestNgClass@67a20f67]" started-at="2023-02-15T23:00:30 IST" name="closeChildBrowser" finished-at="2023-02-15T23:00:31 IST" duration-ms="606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeChildBrowser -->
+        <test-method is-config="true" signature="clearPOMObject()[pri:0, instance:TestNg.TestNgClass@67a20f67]" started-at="2023-02-15T23:00:31 IST" name="clearPOMObject" finished-at="2023-02-15T23:00:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearPOMObject -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNg.TestNgClass@67a20f67]" started-at="2023-02-15T23:00:31 IST" name="closeBrowser" finished-at="2023-02-15T23:00:32 IST" duration-ms="531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNg.TestNgClass -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2023-02-15T23:00:32 IST" name="FirefoxTest" finished-at="2023-02-15T23:00:53 IST" duration-ms="21104">
+      <class name="TestNg.TestNgClass">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:TestNg.TestNgClass@192d43ce]" started-at="2023-02-15T23:00:32 IST" name="launchBrowser" finished-at="2023-02-15T23:00:39 IST" duration-ms="6957" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="test()[pri:0, instance:TestNg.TestNgClass@192d43ce]" started-at="2023-02-15T23:00:39 IST" name="test" finished-at="2023-02-15T23:00:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="goToSignUpForm()[pri:0, instance:TestNg.TestNgClass@192d43ce]" started-at="2023-02-15T23:00:39 IST" name="goToSignUpForm" finished-at="2023-02-15T23:00:42 IST" duration-ms="3303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToSignUpForm -->
+        <test-method signature="verifyPrivacyPolicyLink()[pri:0, instance:TestNg.TestNgClass@192d43ce]" started-at="2023-02-15T23:00:42 IST" name="verifyPrivacyPolicyLink" finished-at="2023-02-15T23:00:45 IST" duration-ms="2341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPrivacyPolicyLink -->
+        <test-method is-config="true" signature="closeChildBrowser()[pri:0, instance:TestNg.TestNgClass@192d43ce]" started-at="2023-02-15T23:00:45 IST" name="closeChildBrowser" finished-at="2023-02-15T23:00:45 IST" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeChildBrowser -->
+        <test-method is-config="true" signature="goToSignUpForm()[pri:0, instance:TestNg.TestNgClass@192d43ce]" started-at="2023-02-15T23:00:45 IST" name="goToSignUpForm" finished-at="2023-02-15T23:00:47 IST" duration-ms="2196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToSignUpForm -->
+        <test-method signature="verifycookiesPolicyLink()[pri:0, instance:TestNg.TestNgClass@192d43ce]" started-at="2023-02-15T23:00:47 IST" name="verifycookiesPolicyLink" finished-at="2023-02-15T23:00:48 IST" duration-ms="1322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycookiesPolicyLink -->
+        <test-method is-config="true" signature="closeChildBrowser()[pri:0, instance:TestNg.TestNgClass@192d43ce]" started-at="2023-02-15T23:00:48 IST" name="closeChildBrowser" finished-at="2023-02-15T23:00:48 IST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeChildBrowser -->
+        <test-method is-config="true" signature="goToSignUpForm()[pri:0, instance:TestNg.TestNgClass@192d43ce]" started-at="2023-02-15T23:00:48 IST" name="goToSignUpForm" finished-at="2023-02-15T23:00:50 IST" duration-ms="1552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToSignUpForm -->
+        <test-method signature="verifytermsLink()[pri:0, instance:TestNg.TestNgClass@192d43ce]" started-at="2023-02-15T23:00:50 IST" name="verifytermsLink" finished-at="2023-02-15T23:00:51 IST" duration-ms="778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytermsLink -->
+        <test-method is-config="true" signature="closeChildBrowser()[pri:0, instance:TestNg.TestNgClass@192d43ce]" started-at="2023-02-15T23:00:51 IST" name="closeChildBrowser" finished-at="2023-02-15T23:00:51 IST" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeChildBrowser -->
+        <test-method is-config="true" signature="clearPOMObject()[pri:0, instance:TestNg.TestNgClass@192d43ce]" started-at="2023-02-15T23:00:51 IST" name="clearPOMObject" finished-at="2023-02-15T23:00:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearPOMObject -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNg.TestNgClass@192d43ce]" started-at="2023-02-15T23:00:51 IST" name="closeBrowser" finished-at="2023-02-15T23:00:53 IST" duration-ms="2384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNg.TestNgClass -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- Suite321 -->
+</testng-results>
